@@ -33,9 +33,9 @@
 
 ---
 
-<!-- ### 📕 Latest Blog Posts
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-➡️ [more blog posts...](https://codestackr.com) -->
+### 📕 Latest Blog Posts
+- [Fixing Gitignore files already pushed to GitHub repository](https://medium.com/@hannahgomezkim/fixing-gitignore-files-already-pushed-to-github-repository-c30f2800ed4a)
+<!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
 [website]: https://hannahgkim.com/
 [youtube]: https://www.youtube.com/channel/UC_Fa6yrspcGcdNWEZnJmz1g
