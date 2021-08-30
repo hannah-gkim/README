@@ -5,8 +5,7 @@
 
 ## I'm a Developer, Teacher and Content Creator!!
 
-<!-- - 🔭 I'm currentlyworking on . . . -->
-
+- 🔭 I'm currently working on [Chat App](https://github.com/hannah-gkim/chat-app-firebase)
 - 🌱 I’m currently studying Data Structures & Algorithms 🧩
 - 👯 I’m looking for open-source side projects 💖
 - 🥅 2021 Goals: Find that perfect first opportunity as a software engineer 🧚
@@ -38,6 +37,7 @@
 ---
 
 ### 📕 Latest Blog Posts
+
 - [Fixing Gitignore files already pushed to GitHub repository](https://medium.com/@hannahgomezkim/fixing-gitignore-files-already-pushed-to-github-repository-c30f2800ed4a)
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
