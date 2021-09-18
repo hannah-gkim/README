@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Teacher and Content Creator!!
 
-- 🔭 I'm currently working on [Chat App](https://github.com/hannah-gkim/chat-app-firebase)
+- 🔭 I'm currently working on [Amazon-clone](https://github.com/hannah-gkim/amazon-clone)
 - 🌱 I’m currently studying Data Structures & Algorithms 🧩
 - 👯 I’m looking for open-source side projects 💖
 - 🥅 2021 Goals: Find that perfect first opportunity as a software engineer 🧚
@@ -15,7 +15,9 @@
 
 <p align="left">
 <a href="https://hannahgkim.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/hannah-gkim/les_choses_de_la_vie/main/public/favicon.ico" alt="hannah g kim" height="30" width="40">
+<!-- <img align="center" src="https://raw.githubusercontent.com/hannah-gkim/les_choses_de_la_vie/main/public/favicon.ico" alt="hannah g kim" height="30" width="40"> -->
+<img align="center" src="https://raw.githubusercontent.com/hannah-gkim/amazon-clone/main/public/favicon.ico" alt="hannah g kim" height="30" width="40">
+
 </a>
 <a href="https://linkedin.com/in/hannah-gkim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hannah-gkim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC_Fa6yrspcGcdNWEZnJmz1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hannah g kim" height="30" width="40" /></a>
