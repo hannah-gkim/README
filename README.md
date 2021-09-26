@@ -24,6 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -37,7 +38,7 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 <!-- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> -->
-<br />
+</p>
 
 ---
 
