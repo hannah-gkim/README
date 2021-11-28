@@ -5,10 +5,10 @@
 
 ## I'm a Developer, Teacher and Content Creator!!
 
-- 🔭 I'm currently working on [Amazon-clone](https://github.com/hannah-gkim/amazon-clone)
-- 🌱 I’m currently studying Data Structures & Algorithms 🧩
+<!-- - 🔭 I'm currently working on [Amazon-clone](https://github.com/hannah-gkim/amazon-clone) -->
+- 🌱 I’m always studying Data Structures & Algorithms 🧩
 - 👯 I’m looking for open-source side projects 💖
-- 🥅 2021 Goals: Find that perfect first opportunity as a software engineer 🧚
+- 🥅 2022 Goal: improve my backend development skills as a software engineer 🧚
 - ⚡ Fun fact: I am a Global Citizen, I speak English, Korean, Japanese, Spanish . . . 🤫
 
 <h3 align="left">Connect with me:</h3>
