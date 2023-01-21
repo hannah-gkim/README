@@ -5,8 +5,6 @@
 [![Website](https://img.shields.io/badge/HANNAHGKIM.COM-UP-pink.svg)](https://hannahgkim.com/)
 <img src="https://komarev.com/ghpvc/?username=hannah-gkim&label=Profile%20views&color=0e75b6&style=flat" alt="hannah-gkim" />
 
----
-
  <!-- About section -->
 
 I am an experienced software engineer with 2 years of professional experience in developing and maintaining high-quality software applications. With international experience and fluency in Korean, Japanese and English, I possess a unique perspective and the ability to effectively communicate with global teams and clients. Intermediate proficiency in Spanish allows me to expand my communication skills and cultural understanding. I am able to work independently and in a team environment with strong analytical and problem-solving skills and I have a great passion for staying current with the latest technology trends.
