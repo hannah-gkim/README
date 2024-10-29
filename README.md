@@ -1,22 +1,10 @@
-<style>
-    @media (max-width: 768px) {
-        .flex-container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: space-between;
-            /* height: auto;  */
-        }
-    }
-</style>
-
 [![website](https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-1.jpg?alt=media&token=cb597daa-9b33-452a-a738-a5b620e5c80a)](https://hannahgkim.com/)
 
 <h1 align="center">Hi 👋, I'm Hannah</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-<div class="flex-container">
-    <img align="right" alt="hannah" width="400" src="https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-3.jpg?alt=media&token=d18d17c5-0376-491f-b070-229e93385d74" >
+<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-3.jpg?alt=media&token=d18d17c5-0376-491f-b070-229e93385d74">
 
    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
         <a href="https://hannahgkim.com/">
@@ -27,8 +15,6 @@
 
 </div>
 
-<br>
-<br>
 <br>
 
 - 🔭 I’m currently looking for **open-source side projects**
