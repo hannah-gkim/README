@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hannah</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-2.jpg?alt=media&token=200a8f9e-fa80-4e69-9278-bc61eb491491" ">
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-1.jpg?alt=media&token=cb597daa-9b33-452a-a738-a5b620e5c80a" style="pointer-events: none;">
 
 [![Website](https://img.shields.io/badge/HANNAHGKIM.COM-UP-pink.svg)](https://hannahgkim.com/)
 <img src="https://komarev.com/ghpvc/?username=hannah-gkim&label=Profile%20views&color=0e75b6&style=flat" alt="hannah-gkim"  />
