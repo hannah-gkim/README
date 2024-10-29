@@ -3,17 +3,18 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+<p align="center">
     <img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-3.jpg?alt=media&token=d18d17c5-0376-491f-b070-229e93385d74">
+</p>
 
-   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-        <a href="https://hannahgkim.com/">
-            <img src="https://img.shields.io/badge/HANNAHGKIM.COM-UP-pink.svg" alt="Website" />
-        </a>
-        <img src="https://komarev.com/ghpvc/?username=hannah-gkim&label=Profile%20views&color=0e75b6&style=flat" alt="hannah-gkim" />
-    </div>
+  <br>
 
-</div>
+<p align="center">
+    <a href="https://hannahgkim.com/">
+        <img src="https://img.shields.io/badge/HANNAHGKIM.COM-UP-pink.svg" alt="Website" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=hannah-gkim&label=Profile%20views&color=0e75b6&style=flat" alt="hannah-gkim" />
+</p>
 
 <br>
 
@@ -22,8 +23,7 @@
 - 📫 How to reach me **hannahgomezkim@gmail.com**
 
 <br>
-<br>
-<br>
+<br><br>
 
 I am an experienced software engineer with 3 years of professional experience in developing and maintaining high-quality software applications. With international experience and fluency in Korean, Japanese, and English, I possess a unique perspective and the ability to effectively communicate with global teams and clients. Intermediate proficiency in Spanish allows me to expand my communication skills and cultural understanding. I am able to work independently and in a team environment with strong analytical and problem-solving skills and I have a great passion for staying current with the latest technology trends.
 
