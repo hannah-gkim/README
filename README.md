@@ -1,25 +1,45 @@
+<style>
+    @media (max-width: 768px) {
+        .flex-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            /* height: auto;  */
+        }
+    }
+</style>
+
 [![website](https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-1.jpg?alt=media&token=cb597daa-9b33-452a-a738-a5b620e5c80a)](https://hannahgkim.com/)
 
 <h1 align="center">Hi 👋, I'm Hannah</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-3.jpg?alt=media&token=d18d17c5-0376-491f-b070-229e93385d74" >
 
-[![Website](https://img.shields.io/badge/HANNAHGKIM.COM-UP-pink.svg)](https://hannahgkim.com/)
-<img src="https://komarev.com/ghpvc/?username=hannah-gkim&label=Profile%20views&color=0e75b6&style=flat" alt="hannah-gkim"  />
+<div class="flex-container">
+    <img align="right" alt="hannah" width="400" src="https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-3.jpg?alt=media&token=d18d17c5-0376-491f-b070-229e93385d74" >
 
+   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+        <a href="https://hannahgkim.com/">
+            <img src="https://img.shields.io/badge/HANNAHGKIM.COM-UP-pink.svg" alt="Website" />
+        </a>
+        <img src="https://komarev.com/ghpvc/?username=hannah-gkim&label=Profile%20views&color=0e75b6&style=flat" alt="hannah-gkim" />
+    </div>
+
+</div>
+
+<br>
+<br>
 <br>
 
 - 🔭 I’m currently looking for **open-source side projects**
-
 - 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **hannahgomezkim@gmail.com**
 
 <br>
 <br>
 <br>
 
-I am an experienced software engineer with 3 years of professional experience in developing and maintaining high-quality software applications. With international experience and fluency in Korean, Japanese and English, I possess a unique perspective and the ability to effectively communicate with global teams and clients. Intermediate proficiency in Spanish allows me to expand my communication skills and cultural understanding. I am able to work independently and in a team environment with strong analytical and problem-solving skills and I have a great passion for staying current with the latest technology trends.
+I am an experienced software engineer with 3 years of professional experience in developing and maintaining high-quality software applications. With international experience and fluency in Korean, Japanese, and English, I possess a unique perspective and the ability to effectively communicate with global teams and clients. Intermediate proficiency in Spanish allows me to expand my communication skills and cultural understanding. I am able to work independently and in a team environment with strong analytical and problem-solving skills and I have a great passion for staying current with the latest technology trends.
 
 3 年の経験を持つフルスタックソフトウェアエンジニアとして、特に React を使ったフロントエンド開発を専門としています。複数の国での生活経験があるため、多文化的な背景を活かし、クロスカルチャーのコラボレーションにおいて独自の視点を提供し、多様なチーム環境で効果的に貢献できます。英語と韓国語に加え、ビジネスレベルの日本語も話せるので、技術的な専門性と柔軟性を持ってプロジェクトに取り組むことができます。また、私は継続的な学習と新しい技術の探求に情熱を注いでおり、常に業界の最新トレンドを追いかけながら、グローバルなチームでの貢献を目指しています。
 
