@@ -11,7 +11,8 @@
 
 <p align="center">
     <a href="https://hannahgkim.com/">
-        <img src="https://img.shields.io/badge/HANNAHGKIM.COM-UP-pink.svg" alt="Website" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/hannah-readme.appspot.com/o/hannah-coding-4.jpg.jpg?alt=media&token=d2429847-49d0-4cb6-a7ed-ced18a541a93" alt="Website" />
+        <!-- <img src="https://img.shields.io/badge/HANNAHGKIM.COM-UP-pink.svg" alt="Website" /> -->
     </a>
     <img src="https://komarev.com/ghpvc/?username=hannah-gkim&label=Profile%20views&color=0e75b6&style=flat" alt="hannah-gkim" />
 </p>
